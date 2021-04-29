@@ -1,5 +1,7 @@
 # Pstage_02_KLUE_Relation_extraction
 
+※ dataset은 9000개의 wiki 뉴스 데이터를 사용
+
 ### training 모델을 학습시키는 파이썬 파일(토크나이징 X)
 * python train.py
 
