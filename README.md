@@ -1,6 +1,6 @@
 # Pstage_02_KLUE_Relation_extraction
 
-※ dataset은 9000개의 wiki 뉴스 데이터를 사용
+※ KLUE 데이터셋은 총 9천개의 학습 데이터와 1천개의 테스트 데이터로 구성되어 있었으며, csv 파일 내에 문장, 두개의 entity 그리고 그것들의 인덱스 정보가 담겨져 있음
 
 ### training 모델을 학습시키는 파이썬 파일(토크나이징 X)
 * python train.py
